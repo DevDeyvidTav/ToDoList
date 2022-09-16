@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#logo{
+    font-family: 'Roboto', sans-serif;
+    @apply text-4xl text-white p-2;
+}
